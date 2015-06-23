@@ -15,6 +15,7 @@
   text-align: center;
   line-height: 3.9;
   cursor: pointer;
+  outline: 0;
 }
 
 .circular-menu.active .floating-btn {
